@@ -1,1 +1,2 @@
-This is git testing repository.
+# git_funcs_lab
+a repository to test git system
